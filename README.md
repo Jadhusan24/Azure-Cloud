@@ -2,6 +2,6 @@
     Contributing Azure projects to the community 
 
 ## Azure Firewall
-  Basic Implementation of routing between two virtual machines.(br/)
-  [Document](/AzureFirewall) (br/)
+  Basic Implementation of routing between two virtual machines.\
+  [Document](/AzureFirewall) \
   [Article]()
