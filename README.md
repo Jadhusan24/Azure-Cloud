@@ -3,5 +3,5 @@
 
 ## Azure Firewall
   Basic Implementation of routing between two virtual machines.
-  [Document](/AzureFirewall)
+  [Document](/AzureFirewall) (br)
   [Article]()
